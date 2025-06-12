@@ -1,2 +1,2 @@
-# MRLauncher
-Автообновляемый лаунчер для MR Project (Arma 3)
+# TRYNEXLauncher
+Автообновляемый лаунчер для TRYNEX
